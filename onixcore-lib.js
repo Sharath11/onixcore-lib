@@ -55236,7 +55236,7 @@ module.exports={
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/onixcoin-io/onixcore-lib.git"
+    "url": "https://github.com/Sharath11/onixcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
