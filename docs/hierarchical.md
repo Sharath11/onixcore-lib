@@ -7,8 +7,8 @@ An instance of a [PrivateKey](privatekey.md) that also contains information requ
 Sample usage:
 
 ```javascript
-var qtumcore = require('qtumcore');
-var HDPrivateKey = qtumcore.HDPrivateKey;
+var onixcore = require('onixcore');
+var HDPrivateKey = onixcore.HDPrivateKey;
 
 var hdPrivateKey = new HDPrivateKey();
 var retrieved = new HDPrivateKey('xpriv...');
